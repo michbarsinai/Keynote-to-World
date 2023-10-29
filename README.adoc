@@ -1,0 +1,11 @@
+= Keynote-to-World
+
+A small AppleScript utility that translate a Keynote presentation into a PowerPoint and a PDF. The generated PDF maintains all transitions. The PowerPoint one maintains compatibility based on Keynote's export (so, most of the stuff works).
+
+To use: save as an application and drop the Keynote files on the application icon. Supports multiple files.
+
+== Resources
+
+* https://talk.automators.fm/t/auto-convert-a-keynote-to-pdf-and-powerpoint/16484
+* https://iworkautomation.com/keynote/document-export.html
+* Apple's documentation on AppleScript and Keynote's API.
